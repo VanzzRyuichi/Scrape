@@ -4,6 +4,7 @@
  * Creator: Vanzz Ryuichi
  * Saluran: https://whatsapp.com/channel/0029VbEP4oP545v13dU72P35
  * Reshare Credit Jgn Hapus Mas😹
+ * Note: Error Fix Sndri😹
  */
  
  const QRCode = require("qrcode");
