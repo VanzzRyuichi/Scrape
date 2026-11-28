@@ -1,6 +1,5 @@
 /**
  * Title: Create Guest Akun Free Fire
- * Base: https://topup.shinkyreal.my.id
  * Creator: Lupa Jir 😹🙏
  * Saluran: https://whatsapp.com/channel/0029VbEP4oP545v13dU72P35
  * Note: Error Fix Sndri😹
