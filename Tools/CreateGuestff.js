@@ -1,6 +1,6 @@
 /**
  * Title: Create Guest Akun Free Fire
- * Creator: Lupa Jir 😹🙏
+ * Creator: https://gist.github.com/ayashiiiyo
  * Saluran: https://whatsapp.com/channel/0029VbEP4oP545v13dU72P35
  * Note: Error Fix Sndri😹
  */
